@@ -1,4 +1,6 @@
 img{
     float: left;
-    size: 250px;
+    height: 500px;
+    width: 500px;
+    padding: 10px;
 }
