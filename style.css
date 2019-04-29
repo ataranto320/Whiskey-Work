@@ -4,3 +4,12 @@ img{
     width: 500px;
     padding: 10px;
 }
+
+.container{
+    float: left;
+}
+
+#img{
+    height: 50px;
+    width: 50px;
+}
