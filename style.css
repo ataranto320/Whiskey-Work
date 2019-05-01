@@ -25,6 +25,11 @@ p{
     margin: 5px;
 }
 
+ol{
+    float: right;
+    color: tan;
+}
+
 .col-3{
     color: tan;
 }
