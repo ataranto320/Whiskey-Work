@@ -26,8 +26,10 @@ p{
 }
 
 ul{
-    float: right;
+    float: justify;
     color: tan;
+    margin: 40px;
+
 }
 
 .col-3{
