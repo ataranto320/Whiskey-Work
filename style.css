@@ -3,6 +3,7 @@ img{
     height: 300px;
     width: 300px;
     padding: 10px;
+    text-align: center;
 }
 
 .container{
@@ -35,6 +36,7 @@ ul{
 .col-4{
     color: tan;
     text-align: center;
+    position: center;
 }
 
 
