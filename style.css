@@ -1,10 +1,40 @@
-img{
+#masthead {
+    /* position: fixed; */
+    z-index: 99;
+    width: 100%;
+    /* margin: 0 0 30px; */
+    /* overflow: auto; */
+    color: white;
+    background: black;
+    /* border-bottom: 2px solid black; */
+  }
+
+#logo {
     float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    /* background: black; */
+  } 
+
+img{
+    /* float: left; */
     height: 300px;
     width: 300px;
     padding: 10px;
     text-align: center;
 }
+
+/* #top{
+    width: 300px;
+    width: 200px;
+} */
 
 .container{
     float: left;
@@ -37,6 +67,11 @@ ul{
     color: tan;
     text-align: center;
     position: center;
+}
+
+.col-12{
+    position: left;
+    text-align: left;
 }
 
 
